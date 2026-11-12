@@ -2,7 +2,7 @@
 
 Test changes to your emergency pathway before you make them in the hospital.
 
-### ▶ [Open the Patient Flow Simulator](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/)
+### ▶ [Open the Patient Flow Simulator](https://storehouse-dev38.github.io/PatientFlow/)
 
 Free to use in your browser. There's nothing to install and no sign-in, and no patient data is needed. Everything you enter stays on your own computer.
 
